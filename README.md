@@ -76,7 +76,7 @@ BI Dashboards & Business Users
 
 ## Architecture Diagram
 
-![AtoZ Databricks Architecture]([./architecture.png](https://github.com/ayadaziz/Databricks_Ecom_Repo/blob/main/legacy_architecture.png))
+[![AtoZ Databricks Architecture]([./architecture.png](https://github.com/ayadaziz/Databricks_Ecom_Repo/blob/main/legacy_architecture.png))](https://github.com/ayadaziz/Databricks_Ecom_Repo/blob/main/legacy_architecture.png)
 
 
 
