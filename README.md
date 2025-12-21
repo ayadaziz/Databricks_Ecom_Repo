@@ -5,9 +5,9 @@
 
 ## Client Background
 
-**AtoZ** is a rapidly growing, US-based e-commerce company serving customers across multiple product categories. As the business expanded, both the **volume** and **velocity** of transactional data increased significantly, placing growing pressure on the company’s existing data infrastructure.
+**AtoZ** is a rapidly growing US-based e-commerce company selling consumer products across multiple categories. As the business expanded, both the **volume** and **velocity** of transactional data increased significantly, placing strain on the company’s existing data infrastructure.
 
-What initially worked for a smaller operation began to fail at scale—resulting in delayed analytics, frozen dashboards, and limited visibility into daily business performance. To address this challenge, AtoZ initiated a **Databricks Lakehouse pilot** to modernize its data platform and validate a scalable alternative to its legacy ETL architecture.
+What initially worked for a smaller organization began to fail at scale—leading to delayed analytics, frozen dashboards, and limited visibility into daily business performance. To address these challenges, AtoZ initiated a **Databricks Lakehouse pilot** to modernize its data platform and validate a scalable alternative to its legacy ETL architecture.
 
 ---
 
@@ -15,38 +15,38 @@ What initially worked for a smaller operation began to fail at scale—resulting
 
 ### Nature of the Crisis
 
-The core issue was not poor code quality, but a **platform-level scalability limitation**.
+The issue was not poor code quality, but a **platform-level scalability limitation**.
 
-AtoZ relied on **Python-based ETL pipelines** running across fragmented AWS services (Lambda, Glue, EC2). As data volumes grew, these pipelines struggled to process large datasets efficiently, becoming a major bottleneck for analytics and reporting.
+AtoZ relied on **Python-based ETL pipelines** distributed across AWS services such as Lambda, Glue, and EC2. As data volumes grew, these pipelines struggled to handle large-scale transformations, becoming a bottleneck for analytics and reporting workloads.
 
 ### Business & Operational Impact
 
-The technical limitations had direct business consequences:
+The technical limitations led to tangible business consequences:
 
-- ❌ Frozen dashboards during peak usage  
-- ⏱️ Delayed daily reports, blocking leadership decisions  
-- 📉 Marketing teams unable to access prior-day performance data  
-- 🛠️ High maintenance overhead due to scattered ETL logic  
+- ❌ Dashboards freezing during peak usage  
+- ⏱️ Delayed daily reports impacting leadership decisions  
+- 📉 Marketing teams unable to access prior-day data on time  
+- 🛠️ High maintenance overhead due to fragmented ETL logic  
 - 💰 Limited cost transparency and inefficient scaling  
 
-Leadership identified this as a **strategic data platform issue**, not a short-term engineering fix.
+Leadership identified this as a **strategic data platform problem**, not a short-term engineering issue.
 
 ---
 
 ## Pilot Objective
 
-Rather than performing a full migration, leadership approved a **pilot project** to validate Databricks against three key criteria:
+Instead of a full migration, leadership approved a **controlled pilot project** to validate Databricks against three success criteria:
 
 1. **Performance**  
    Distributed Spark processing must outperform legacy Python ETL jobs.
 
 2. **Adoption**  
-   The platform must be intuitive enough for engineers and analysts to onboard quickly.
+   The platform should be intuitive enough for engineers and analysts to onboard quickly.
 
 3. **Roadmap Alignment**  
    The solution must be:
    - Scalable (supporting any data volume)
-   - Agile (easy infrastructure upgrades/downgrades)
+   - Agile (easy infrastructure upgrades or downgrades)
    - Unified (data engineering, analytics, and AI in one workspace)
 
 ---
