@@ -60,4 +60,10 @@ The pilot introduces **Databricks as a centralized compute and analytics layer**
 
 ![AtoZ Databricks Architecture](https://github.com/ayadaziz/Databricks_Ecom_Repo/blob/main/databricks_architecture.png)
 
+---
 
+## Data Architecture Strategy
+
+This project follows the Medallion Architecture to enforce data quality boundaries and improve scalability.
+
+Medallion Architecture Diagram
