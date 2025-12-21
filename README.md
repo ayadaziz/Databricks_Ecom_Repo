@@ -99,5 +99,6 @@ Monthly revenue peaked in **August**, declined sharply in **September**, and rec
 
 ### Evidence  
 ```md
-![Monthly Sales Revenue – 2025](./analysis/monthly_sales_2025.png)
+![Monthly Sales Revenue – 2025](<img width="775" height="280" alt="image" src="https://github.com/user-attachments/assets/a89e7981-cb1e-410f-a390-f15945893bbc" />
+)
 
