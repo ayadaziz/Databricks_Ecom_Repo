@@ -98,7 +98,6 @@ Monthly revenue peaked in **August**, declined sharply in **September**, and rec
 - October: ₹618.1M (recovery)
 
 ### Evidence  
-```md
-![Monthly Sales Revenue – 2025](<img width="775" height="280" alt="image" src="https://github.com/user-attachments/assets/a89e7981-cb1e-410f-a390-f15945893bbc" />
+![Monthly Sales Revenue – 2025](https://github.com/ayadaziz/Databricks_Ecom_Repo/blob/main/Analysis/Total%20Revenue%20.jpg
 )
 
