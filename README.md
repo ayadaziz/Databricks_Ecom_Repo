@@ -66,4 +66,4 @@ The pilot introduces **Databricks as a centralized compute and analytics layer**
 
 This project follows the Medallion Architecture to enforce data quality boundaries and improve scalability.
 
-Medallion Architecture Diagram
+![AtoZ Pipeline](https://github.com/ayadaziz/Databricks_Ecom_Repo/blob/main/building-data-pipelines-with-delta-lake-120823.png)
