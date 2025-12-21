@@ -51,6 +51,7 @@ Instead of a full migration, leadership approved a **controlled pilot project** 
 
 ---
 
+
 ## High-Level Architecture
 
 The pilot introduces **Databricks as a centralized compute and analytics layer**, replacing fragmented ETL logic with a unified Lakehouse architecture.
@@ -71,17 +72,12 @@ Amazon S3 (Raw Storage)
 Databricks (ETL, Processing, Data Warehouse)
    ↓
 BI Dashboards & Business Users
+```
 
 ---
 
 ## Architecture Diagram
 
-[![AtoZ Databricks Architecture]([./architecture.png](https://github.com/ayadaziz/Databricks_Ecom_Repo/blob/main/legacy_architecture.png))](https://github.com/ayadaziz/Databricks_Ecom_Repo/blob/main/legacy_architecture.png)
-
-
-
-
-
-
+![AtoZ Databricks Architecture](https://github.com/ayadaziz/Databricks_Ecom_Repo/blob/main/databricks_architecture.png)
 
 
