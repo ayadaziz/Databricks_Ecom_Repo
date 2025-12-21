@@ -71,3 +71,11 @@ Amazon S3 (Raw Storage)
 Databricks (ETL, Processing, Data Warehouse)
    ↓
 BI Dashboards & Business Users
+
+---
+
+## Architecture Diagram
+
+![AtoZ Databricks Architecture](./architecture.png)
+
+
