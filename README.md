@@ -58,26 +58,6 @@ The pilot introduces **Databricks as a centralized compute and analytics layer**
 
 ### End-to-End Data Flow
 
-```text
-Customers
-   ↓
-E-Commerce Application (OLTP)
-   ↓
-On-Prem Relational Database
-   ↓
-Python Data Extraction
-   ↓
-Amazon S3 (Raw Storage)
-   ↓
-Databricks (ETL, Processing, Data Warehouse)
-   ↓
-BI Dashboards & Business Users
-```
-
----
-
-## Architecture Diagram
-
 ![AtoZ Databricks Architecture](https://github.com/ayadaziz/Databricks_Ecom_Repo/blob/main/databricks_architecture.png)
 
 
