@@ -1,4 +1,4 @@
-# 🛒 AtoZ E-Commerce Data Platform Modernisation  
+# E-Commerce Data Platform Modernisation  
 ### Databricks Lakehouse Pilot Project
 
 ---
